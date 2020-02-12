@@ -1,0 +1,8 @@
+{
+  "name": "Modulo 02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/devaraujstein/gostack10_goBarber_backend.git",
+  "author": "devaraujstein <andreearaujo98@gmail.com>",
+  "license": "MIT"
+}
